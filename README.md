@@ -6,7 +6,7 @@ Olá, me chamo Caio 👍
 
 # 👨🏾‍💻 Caio Aguiar
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor Back-End`**
 
 Me chamo Caio Santos Aguiar, tenho 18 anos e moro em São Paulo capital. O que me motiva é a oportunidade de aprender continuamente e orgulhar as pessoas que eu amo. Cada novo desafio representa uma chance de expandir meus conhecimentos, desenvolver minhas habilidades e ter impacto efetivo na realidade da empresa. A paixão pela área da tecnologia vem do desejo de sempre querer ir além em cada etapa e ser desafiado nesse processo. 
 
