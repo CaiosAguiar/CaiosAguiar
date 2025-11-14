@@ -1,7 +1,7 @@
 Olá, me chamo Caio 👍
 
 - 🖥️ Estudando Analise e Desenvolvimento de Sistemas | https://www.sp.senac.br/
-- 💜 Estágiando na Vivo, área de atuação Software Asset Manager (SAM)
+- 💜 Estágiando na Vivo, área de atuação Software Asset Management (SAM)
 - 📧 Contate-me no email: caiosantosdg@gmail.com
 
 # 👨🏾‍💻 Caio Aguiar
